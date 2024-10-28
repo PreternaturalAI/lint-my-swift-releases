@@ -16,8 +16,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "lint-my-swift",
-            url: "https://github.com/PreternaturalAI/lint-my-swift-releases/releases/download/0.0.0/lint-my-swift.artifactbundle.zip",
-            checksum: ""
+            url: "https://github.com/PreternaturalAI/lint-my-swift-releases/releases/download/0.0.1/lint-my-swift.artifactbundle.zip",
+            checksum: "135bfb7bd9672f127fa6537d6ccdabf60cacd3a6805a9e5bc3ff655c4d4b86ba"
         )
     ]
 )
