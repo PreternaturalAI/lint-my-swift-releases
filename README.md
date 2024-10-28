@@ -1,0 +1,1 @@
+# lint-my-swift-releases
